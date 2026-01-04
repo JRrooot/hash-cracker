@@ -1,4 +1,4 @@
-# Hash Cracker (Learning Project)
+# Hash Cracker 
 
 ## Description
 A dictionary-based hash cracking tool built to understand how
@@ -20,5 +20,6 @@ python3 crack_the_hash.py -H 5f4dcc3b5aa765d61d8327deb882cf99 -W rockyou.txt
 - Dictionary-based only
 - No salting support
 - Limited hash algorithm support (more planned)
+
 
 
